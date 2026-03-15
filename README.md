@@ -10,7 +10,6 @@
 
 ![评级徽章](images/2.png)
 
-![视频进度条时间轴](images/3.png)
 
 ![设置面板](images/4.png)
 
